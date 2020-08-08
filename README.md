@@ -1,14 +1,27 @@
-<table>
-<thead><td>Native Type</td><td>Size</td><td>Java Type</td><td>Common Windows Types</td></thead>
-<tr><td>char</td><td>8-bit integer</td><td>byte</td><td>BYTE, TCHAR</td></tr>
-<tr><td>short</td><td>16-bit integer</td><td>short</td><td>WORD</td></tr>
-<tr><td>wchar_t</td><td>16/32-bit character</td><td>char</td><td>TCHAR</td></tr>
-<tr><td>int</td><td>32-bit integer</td><td>int</td><td>DWORD</td></tr>
-<tr><td>int</td><td>boolean value</td><td>boolean</td><td>BOOL</td></tr>
-<tr><td>long</td><td>32/64-bit integer</td><td>NativeLong</td><td>LONG</td></tr>
-<tr><td>long long</td><td>64-bit integer</td><td>long</td><td>__int64</td></tr>
-<tr><td>float</td><td>32-bit FP</td><td>float</td><td></td></tr>
-<tr><td>double</td><td>64-bit FP</td><td>double</td><td></td></tr>
-<tr><td>char*</td><td>C string</td><td>String</td><td>LPCSTR</td></tr>
-<tr><td>void*</td><td>pointer</td><td>Pointer</td><td>LPVOID, HANDLE, LP<i>XXX</i></td></tr>
-</table>
+|大写|小写|英文注音|中文读音|
+|:---:|:---:|:---:|:---:|
+|A|α|alpha|阿尔法|
+|B|β|beta|贝塔|
+|Γ|γ|gamma|伽玛|
+|Δ|δ|delta|德尔塔|
+|Ε|ε|epsilon|A普瑟龙|
+|Ζ|ζ|zeta|Z塔|
+|Η|η|eta|A塔|
+|Θ|θ|theta|C塔|
+|Ι|ι|iota|IO塔|
+|Κ|κ|kappa|卡帕|
+|Λ|λ|lambda |兰母达|
+|Μ|μ|mu|谬|
+|Ν|ν|nu|拗| 
+|Ξ|ξ|xi|赛|
+|Ο|ο|omicron|欧米crown| 
+|∏|π|pi|派|
+|Ρ|ρ|rho|肉| 
+|∑|σ|sigma|瑟格玛| 
+|Τ|τ|tau|套| 
+|Υ|υ|upsilon|阿普瑟龙| 
+|Φ|φ|phi|费|
+|Χ|χ|chi|忾|
+|Ψ|ψ|psi|赛|
+|Ω|ω|omega|欧米伽|
+ 
